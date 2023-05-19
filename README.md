@@ -2,8 +2,7 @@
 ## __на основе языка JAVA__
 ## __Home work 7__
 ![java](java.jpeg)
-![python](python.jpg)
-![C-sharp](C-sharp.png)
+
 
 # ___Итоговый проэкт!___
 
